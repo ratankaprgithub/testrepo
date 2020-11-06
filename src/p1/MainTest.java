@@ -4,7 +4,8 @@ public class MainTest {
 
 	public static void main(String[] args) {
 
-		System.out.println("bye user");
+		System.out.println("Welcome User");
+		
 	}
 
 }
